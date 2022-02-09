@@ -1,0 +1,20 @@
+ <?php
+   session_start();
+   $varsesion = $_SESSION["id"]; 
+
+    require_once '../conexion/conexion.php';
+    print_r($_POST);
+
+    $user = $_POST['user'];
+    $userP = $_POST['userP'];
+    $userM = $_POST['userM'];
+    $email = $_POST['email'];
+    $password = "ISPAS2021";
+
+    $consulta = "INSERT INTO usuario (nomUsr, apPaternoUsr, apMaternoUsr, correoUsr, passwordUsr,fechaRegistro, estatusUsr)
+    VALUES ('$user','$userP','$userM','$email','$password',now(),1)";
+    $resultado = mysqli_query($mysqli,$consulta);
+
+    header("Location: ../guia/usuarios.php");
+
+ ?>

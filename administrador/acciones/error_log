@@ -1,0 +1,16 @@
+[11-Jan-2022 15:35:18 America/New_York] PHP Notice:  Undefined variable: idusuario in /home/youriqum/integracionsaludable.com/is/administrador/acciones/cuestionario_usr.php on line 3
+[11-Jan-2022 15:35:18 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/youriqum/integracionsaludable.com/is/administrador/acciones/cuestionario_usr.php on line 4
+[11-Jan-2022 15:35:18 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/youriqum/integracionsaludable.com/is/administrador/acciones/cuestionario_usr.php on line 4
+[11-Jan-2022 15:35:18 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/youriqum/integracionsaludable.com/is/administrador/acciones/cuestionario_usr.php on line 5
+[11-Jan-2022 15:35:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/youriqum/integracionsaludable.com/is/administrador/acciones/cuestionario_usr.php on line 11
+[11-Jan-2022 15:35:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/youriqum/integracionsaludable.com/is/administrador/acciones/cuestionario_usr.php on line 15
+[11-Jan-2022 15:35:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/youriqum/integracionsaludable.com/is/administrador/acciones/cuestionario_usr.php on line 19
+[11-Jan-2022 15:35:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/youriqum/integracionsaludable.com/is/administrador/acciones/cuestionario_usr.php on line 23
+[11-Jan-2022 15:35:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/youriqum/integracionsaludable.com/is/administrador/acciones/cuestionario_usr.php on line 27
+[11-Jan-2022 15:35:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/youriqum/integracionsaludable.com/is/administrador/acciones/cuestionario_usr.php on line 31
+[11-Jan-2022 15:35:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/youriqum/integracionsaludable.com/is/administrador/acciones/cuestionario_usr.php on line 35
+[11-Jan-2022 15:35:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/youriqum/integracionsaludable.com/is/administrador/acciones/cuestionario_usr.php on line 39
+[11-Jan-2022 15:35:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/youriqum/integracionsaludable.com/is/administrador/acciones/cuestionario_usr.php on line 43
+[11-Jan-2022 15:35:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/youriqum/integracionsaludable.com/is/administrador/acciones/cuestionario_usr.php on line 47
+[11-Jan-2022 15:35:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/youriqum/integracionsaludable.com/is/administrador/acciones/cuestionario_usr.php on line 51
+[11-Jan-2022 15:35:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/youriqum/integracionsaludable.com/is/administrador/acciones/cuestionario_usr.php on line 55

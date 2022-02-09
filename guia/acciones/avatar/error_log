@@ -1,0 +1,21 @@
+[12-Jan-2022 18:20:13 America/New_York] PHP Notice:  Undefined index: directory in /home/youriqum/integracionsaludable.com/is/guia/acciones/avatar/img.php on line 13
+[12-Jan-2022 18:20:13 America/New_York] PHP Notice:  Undefined index: loggedIn in /home/youriqum/integracionsaludable.com/is/guia/acciones/avatar/img.php on line 261
+[12-Jan-2022 18:20:26 America/New_York] PHP Notice:  Undefined index: directory in /home/youriqum/integracionsaludable.com/is/guia/acciones/avatar/img.php on line 13
+[12-Jan-2022 18:20:26 America/New_York] PHP Notice:  Undefined index: loggedIn in /home/youriqum/integracionsaludable.com/is/guia/acciones/avatar/img.php on line 261
+[12-Jan-2022 18:21:12 America/New_York] PHP Notice:  Undefined index: directory in /home/youriqum/integracionsaludable.com/is/guia/acciones/avatar/img.php on line 13
+[12-Jan-2022 18:21:12 America/New_York] PHP Notice:  Undefined index: loggedIn in /home/youriqum/integracionsaludable.com/is/guia/acciones/avatar/img.php on line 261
+[12-Jan-2022 18:21:16 America/New_York] PHP Notice:  Undefined index: directory in /home/youriqum/integracionsaludable.com/is/guia/acciones/avatar/img.php on line 13
+[12-Jan-2022 18:21:41 America/New_York] PHP Notice:  Undefined index: directory in /home/youriqum/integracionsaludable.com/is/guia/acciones/avatar/img.php on line 13
+[12-Jan-2022 18:21:56 America/New_York] PHP Notice:  Undefined index: ls in /home/youriqum/integracionsaludable.com/is/guia/acciones/avatar/img.php on line 22
+[12-Jan-2022 18:22:03 America/New_York] PHP Notice:  Undefined index: ls in /home/youriqum/integracionsaludable.com/is/guia/acciones/avatar/img.php on line 22
+[12-Jan-2022 18:23:40 America/New_York] PHP Notice:  Undefined index: directory in /home/youriqum/integracionsaludable.com/is/guia/acciones/avatar/img.php on line 13
+[12-Jan-2022 18:29:32 America/New_York] PHP Notice:  Undefined index: directory in /home/youriqum/integracionsaludable.com/is/guia/acciones/avatar/img.php on line 13
+[12-Jan-2022 18:29:36 America/New_York] PHP Notice:  Undefined index: directory in /home/youriqum/integracionsaludable.com/is/guia/acciones/avatar/img.php on line 13
+[25-Jan-2022 23:55:09 Europe/Minsk] PHP Warning:  Use of undefined constant FM_USE_HIGHLIGHTJS - assumed 'FM_USE_HIGHLIGHTJS' (this will throw an Error in a future version of PHP) in /home/youriqum/integracionsaludable.com/is/guia/acciones/avatar/file.php on line 1772
+[25-Jan-2022 23:55:09 Europe/Minsk] PHP Warning:  Use of undefined constant FM_HIGHLIGHTJS_STYLE - assumed 'FM_HIGHLIGHTJS_STYLE' (this will throw an Error in a future version of PHP) in /home/youriqum/integracionsaludable.com/is/guia/acciones/avatar/file.php on line 1773
+[25-Jan-2022 23:55:09 Europe/Minsk] PHP Warning:  Use of undefined constant FM_USE_HIGHLIGHTJS - assumed 'FM_USE_HIGHLIGHTJS' (this will throw an Error in a future version of PHP) in /home/youriqum/integracionsaludable.com/is/guia/acciones/avatar/file.php on line 1799
+[09-Feb-2022 19:04:04 Europe/Minsk] PHP Fatal error:  Uncaught Error: Undefined constant "FM_USE_HIGHLIGHTJS" in /home/youriqum/integracionsaludable.com/is/guia/acciones/avatar/file.php:1772
+Stack trace:
+#0 /home/youriqum/integracionsaludable.com/is/guia/acciones/avatar/file.php(116): fm_show_header()
+#1 {main}
+  thrown in /home/youriqum/integracionsaludable.com/is/guia/acciones/avatar/file.php on line 1772
